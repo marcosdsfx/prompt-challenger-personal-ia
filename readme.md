@@ -327,40 +327,68 @@ Frequência de Treino: 3 Dias por semana (Treino ABC)
 
 Exercícios Preferidos: Funcional e Cardio
 
-Divisão de Treino ABC:
-Dia A: Peito, Tríceps e Cardio
+***Divisão de Treino ABC:***
+
+***Dia A: Peito, Tríceps e Cardio***
 
 Aquecimento: 5-10 minutos de cardio leve (corrida ou ciclismo)
+
 Supino reto com barra – 4 séries de 8-10 repetições
+
 Supino inclinado com halteres – 4 séries de 8-10 repetições
+
 Mergulho entre bancos (para tríceps) – 3 séries de 10-12 repetições
+
 Tríceps na polia alta (cabo) – 3 séries de 12-15 repetições
+
 Flexão de braço (com variação) – 3 séries até a falha
+
 Cardio (HIIT ou corrida intervalada) – 20 minutos (1 minuto de alta intensidade, 1 minuto de descanso)
-Dia B: Costas, Bíceps e Funcional
+
+***Dia B: Costas, Bíceps e Funcional***
 
 Aquecimento: 5-10 minutos de cardio leve
+
 Puxada frente na polia alta – 4 séries de 8-10 repetições
+
 Remada curvada com barra – 4 séries de 8-10 repetições
+
 Remada unilateral com haltere – 3 séries de 10 repetições (cada braço)
+
 Rosca direta com barra – 4 séries de 10-12 repetições
+
 Rosca alternada com halteres – 3 séries de 12 repetições
+
 Exercício funcional (exemplo: Kettlebell swing ou burpees) – 3 séries de 12-15 repetições
+
 Cardio (ciclismo ou caminhada rápida) – 20 minutos
-Dia C: Pernas, Ombros e Cardio
+
+***Dia C: Pernas, Ombros e Cardio***
 
 Aquecimento: 5-10 minutos de cardio leve
+
 Agachamento com barra – 4 séries de 8-10 repetições
+
 Leg press – 4 séries de 10-12 repetições
+
 Afundo (com halteres) – 3 séries de 10 repetições por perna
+
 Desenvolvimento com halteres – 4 séries de 8-10 repetições
+
 Elevação lateral de ombro com halteres – 3 séries de 12 repetições
+
 Cardio (HIIT ou corrida intervalada) – 20 minutos (1 minuto de alta intensidade, 1 minuto de descanso)
-Dicas e Observações:
+
+***Dicas e Observações:***
+
 Progressão de Carga: Como o objetivo é ganho de massa muscular, procure aumentar a carga progressivamente sempre que se sentir confortável com a execução de 10-12 repetições.
+
 Recuperação: Em cada treino, tente descansar entre 60 a 90 segundos entre as séries para maximizar o ganho muscular.
+
 Exercícios Funcionais: Como você prefere, inclua exercícios funcionais que ajudem no desenvolvimento de força, equilíbrio e coordenação. Faça-os principalmente no início do treino, quando está mais descansado.
+
 Cardio: O cardio será inserido após o treino de musculação, com foco no condicionamento cardiovascular. Como você possui um biotipo ectomorfo, o cardio será moderado para não afetar o ganho muscular.
+
 Esse plano mistura treino de musculação com exercícios funcionais e cardio para garantir que você esteja promovendo tanto o ganho de massa muscular quanto o aprimoramento do condicionamento cardiovascular.
 
 # FIM
