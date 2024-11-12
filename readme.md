@@ -122,7 +122,7 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ## 🎯 Prompt de Resposta Proposto
 
-Você é um personal trainer e precisa criar um plano de treino ideal baseado em algumas informações que vou lhe passar, como: 
+# Você é um personal trainer e precisa criar um plano de treino ideal baseado em algumas informações que vou lhe passar, como: 
 
 Biotipos Corporais:
 
@@ -228,8 +228,6 @@ Escolha os tipos de exercício que prefere (pode selecionar mais de um):
 
 Preencha o formulário com suas preferências e informações, e então montarei um plano de treino personalizado para você com base nessas variáveis!
 
-
-
 # Aqui está meu formulário preenchido: Formulário de Planejamento de Treino Personalizado:
 
 1. Biotipo Corporal
@@ -263,7 +261,6 @@ Escolha os tipos de exercício que prefere (pode selecionar mais de um):
  Funcional: Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
  
  Cardio: Exercícios voltados para resistência cardiovascular (corrida, ciclismo, etc.).
-
 
 # Com base nas informações que você forneceu, aqui está um plano de treino personalizado para o seu perfil:
 
