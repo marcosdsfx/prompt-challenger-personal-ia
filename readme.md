@@ -134,6 +134,7 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
 
 3 - Endomorfo:	Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
 
+
 ***Idade:***
 
 1 - Adolescente: 15-19 anos — Diferencia os mais jovens, que geralmente têm mais flexibilidade e metabolismo acelerado, de quem já está em fase adulta inicial.
@@ -145,6 +146,7 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
 4 - Maturidade: 51-65 anos — Para quem já pode ter algumas limitações ou preocupações com saúde, mas ainda mantém um bom nível de atividade.
 
 5 - Melhor Idade: 66+
+
 
 ***Nível de condicionamento atual:***
 
@@ -158,6 +160,7 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
 
 5 - Condicionamento Funcional (opcional): Essa é uma categoria alternativa para pessoas que podem ter alguma limitação física ou necessidade específica, como reabilitação. Os treinos são adaptados para melhorar a funcionalidade e qualidade de vida.
 
+
 ***Objetivos específicos:***
 
 1 - ganho de massa muscular
@@ -165,6 +168,7 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
 2 - perda de peso
 
 3 - condicionamento cardiovascular
+
 
 ***Quantos dias por semana você planeja treinar:***
 
@@ -180,6 +184,7 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
 
 ***ABCDE:*** Divisão do treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
 
+
 ***Exercícios Preferidos:*** 
 
 1 - Funcional:	Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
@@ -191,6 +196,7 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
 4 - Cardio	Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
 
 5 - HIIT	Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
 
 
 # Crie um formulário para que eu possa preencher esses dados, e após eu te entregar esse formulario, você criará um treino personalizado baseado em todas essas variáveis.
@@ -207,48 +213,70 @@ Escolha seu biotipo corporal:
  Mesomorfo: Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
  Endomorfo: Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
 
+
 2. Idade
+   
 Selecione sua faixa etária:
 
  Adolescente: 15-19 anos
+ 
  Jovem Adulto: 20-35 anos
+ 
  Adulto: 36-50 anos
+ 
  Maturidade: 51-65 anos
+ 
  Melhor Idade: 66+ anos
+
 
 3. Nível de Condicionamento Atual
 Qual é o seu nível de condicionamento físico atual?
 
  Iniciante: Está começando ou retornando após um longo período sem atividade.
+ 
  Intermediário: Pratica exercícios regularmente há pelo menos 6-12 meses, mas ainda desenvolve técnica e consistência.
+ 
  Avançado: Treina consistentemente há mais de 1-2 anos, com boa técnica e força.
+ 
  Atleta: Treina com alta intensidade e especificidade (atleta amador ou profissional).
+ 
  Condicionamento Funcional: Possui alguma limitação física ou necessidade específica.
+
 
 4. Objetivo Específico
 Qual é o seu principal objetivo?
 
  Ganho de massa muscular
+ 
  Perda de peso
+ 
  Condicionamento cardiovascular
 
 5. Frequência Semanal de Treino
 Quantos dias por semana você planeja treinar?
 
  1 Dia - Treino Full Body
+ 
  3 Dias - Treino ABC
+ 
  5 Dias - Treino ABCDE
+ 
 
 6. Exercícios Preferidos
 Escolha os tipos de exercício que prefere (pode selecionar mais de um):
 
  Funcional: Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
+ 
  Maquinário: Exercícios feitos em máquinas, focados em isolar grupos musculares.
+ 
  Peso Livre: Exercícios com pesos livres, como halteres e barras.
+ 
  Cardio: Exercícios voltados para resistência cardiovascular (corrida, ciclismo, etc.).
+ 
  HIIT: Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+ 
 
-Preencha o formulário com suas preferências e informações, e então montarei um plano de treino personalizado para você com base nessas variáveis!
+***Preencha o formulário com suas preferências e informações, e então montarei um plano de treino personalizado para você com base nessas variáveis!***
 
 # Aqui está meu formulário preenchido: Formulário de Planejamento de Treino Personalizado:
 
