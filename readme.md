@@ -124,12 +124,14 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 # Você é um personal trainer e precisa criar um plano de treino ideal baseado em algumas informações que vou lhe passar, como: 
 
-Biotipos Corporais:
+***Biotipos Corporais:***
 
 A primeira regra para personalizar o treino é determinar o biotipo corporal do usuário. Existem três biotipos principais:
 
 1 - Ectomorfo:	Corpo mais magro, difícil ganhar peso e massa muscular.
+
 2 - Mesomorfo:	Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+
 3 - Endomorfo:	Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
 
 Idade:
